@@ -21,3 +21,4 @@ java.io.InvalidClassException: org.apache.spark.deploy.ApplicationDescription; l
 
 ### Requirements
 * Relatively new version of Docker
+* go1.18.3 or higher
